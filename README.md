@@ -14,10 +14,19 @@ All the styles are followed by the figma design [here](https://www.figma.com/des
 3. set up <Entry /> and style it with hard-coded data
 4. Once the styles are good, pass all the data through props from data.js
 
+# Links
+
+- Live demo [@Netlify](https://rainbow-blini-2ff9e4.netlify.app/)
+- Github [Repository](https://github.com/NathanC90/react-travel-journal)
+
+### Project screenshot
+
+![project screenshot][screenshot]
+
+[screenshot]: https://github.com/NathanC90/react-travel-journal/blob/main/project-screenshot.png "project screenshot"
+
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Made with 🔥 
-
-by [NathanC90](https://nathanc90.github.io/)
+### Made with 🔥 by [NathanC90](https://nathanc90.github.io/)
