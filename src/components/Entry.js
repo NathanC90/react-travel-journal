@@ -2,7 +2,6 @@ import React from "react";
 import locationMarker from "../images/marker.png";
 
 export default function Entry(props) {
-  console.log(props)
   return (
     <div className="entry-container">
       <img
