@@ -5,7 +5,7 @@ All the styles are followed by the figma design [here](https://www.figma.com/des
 
 ### Skills required
 - Retrieve data from another file
-- Javascript: Use .map() array method & aprops
+- Javascript: Use .map() array method & props
 - CSS: flexbox & naming (for better readability) & selector
 
 ### My thought process
